@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 .env
 githubtoken.txt
+sp-credentials.json
